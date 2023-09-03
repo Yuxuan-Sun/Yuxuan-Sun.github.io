@@ -41,6 +41,7 @@ author:
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <yuxuansun0214@icloud.com>
+  picture:             /assets/img/ysun.png
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
