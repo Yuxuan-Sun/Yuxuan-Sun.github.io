@@ -1,57 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://abirsh.github.io/</loc>
-  <lastmod>2023-02-12T23:48:33+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<!-- <url>
-  <loc>https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url> -->
-<url>
-  <loc>https://abirsh.github.io/publications/BVI-audio-CHI2023-preprint.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/example/</loc>
+<lastmod>2021-10-13T00:47:10-04:00</lastmod>
 </url>
 <url>
-  <loc>https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/example/2017-11-23-example-content-ii/</loc>
+<lastmod>2017-11-23T00:00:00-05:00</lastmod>
 </url>
 <url>
-  <loc>https://abirsh.github.io/publications/Autism_CHI18.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/example/2018-06-01-example-content-iii/</loc>
+<lastmod>2018-06-01T00:00:00-04:00</lastmod>
 </url>
 <url>
-  <loc>https://abirsh.github.io/publications/BVI-audio-CHI2022-DC.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/jekyll/update/2019-02-24-welcome-to-jekyll/</loc>
+<lastmod>2019-02-24T19:50:57-05:00</lastmod>
 </url>
 <url>
-  <loc>https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/404/</loc>
 </url>
 <url>
-  <loc>https://abirsh.github.io/legal</loc>
-  <lastmod>2023-02-12T23:48:33+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/about/</loc>
 </url>
 <url>
-  <loc>https://abirsh.github.io/assets/files/Resume-Saha-Abir.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/hydejack-starter-kit/</loc>
 </url>
-
-
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/assets/Resume.pdf</loc>
+<lastmod>2021-10-13T00:47:10-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/assets/bower_components/fontfaceobserver/test/assets/</loc>
+<lastmod>2021-10-13T00:47:10-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/assets/bower_components/fontfaceobserver/test/</loc>
+<lastmod>2021-10-13T00:47:10-04:00</lastmod>
+</url>
 </urlset>
