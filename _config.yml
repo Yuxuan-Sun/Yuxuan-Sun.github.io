@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://abirsh.github.io
+url: yuxuan-sun.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,114 +12,81 @@ url:                   https://abirsh.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl: ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Abir Saha
+title:                 Yuxuan Sun
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Abir Saha -  User Researcher and PhD Candidate in Technology & Social Behavior at Northwestern University.
+  emotions, sounds, images, thoughts, ..., take on a life of their own.
 
 # A shorter description for the sidebar.
-tagline: |
-  User Researcher
+tagline:               >
+  青
 
-# A list of keywords for your blog
-keywords:              [Abir, Saha, Accessibility, HCI, UX, User Experience, Research, Northwestern]
+# A list of keywords for your blog.
+keywords:              []
 
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/abir.jpg
+# Used by jekyll-seo-tag.
+logo:                  
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Abir Saha
-  email:               <abirsaha056@gmail.com>
+  # Used by `jekyll-feed`:
+  name:                <firstname> <lastname>
+  email:               <yuxuansun0214@icloud.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
-
-# Add links to the sidebar.
-menu:
-  - title:             ABOUT
-    url:               /#about
-  - title:             RESEARCH
-    url:               /#research
-  - title:             PUBLICATIONS
-    url:               /#publications
-  - title:             CONTACT
-    url:               /#contact-me
-  - title:             RESUME
-    url:               /assets/files/Resume-Saha-Abir.pdf
-  # - title:             PORTFOLIO
-    # url:               /assets/files/Portfolio-Saha-Abir.pdf
-#   - title:             Blog
-#     url:               /blog
-
-# Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             Legal
-    url:               /legal
-#   - title:             Cookies Policy
-#     url:               /cookies-policy/
+  # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023 Abir Saha. All rights reserved.
+copyright:             >
+  © 2021. All rights reserved.
+
+# Add links to the footer.
+# Typically you'll want to link to your impress, cookies or privacy policy, etc.
+# legal:
+#   - title:             Impress
+#     href:              /impress/
+#   - title:             Cookies Policy
+#     href:              /cookies-policy/
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /blog/page-:num/
+paginate:              5
+paginate_path:         /page-:num/
 
 
 # Customizaton
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-# accent_image:          /assets/img/sidebar-bg.jpg
-accent_image:          none
-accent_color:          rgb(0, 87, 156)
+accent_image:          /assets/img/sidebar-bg.jpg
+accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(0, 87, 156)
-#theme_color:           rgb(21, 21, 21)
+theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-# google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
-# google_fonts:          Merriweather:700|PT+Sans:400,400i,700,700i
-
-# my regular font combo
-# google_fonts:          Roboto:700|Roboto:400,400i,700,700i
-google_fonts:          Nunito+Sans:600|Nunito+Sans:400,400i,700,700i
+google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-# font:                  Noto Sans, Helvetica, Arial, sans-serif
-
-# my regular font combo
-# font:                  Roboto, Helvetica, Arial, sans-serif
-font:                  Nunito Sans, Helvetica, Arial, sans-serif
+font:                  Noto Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-# font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
-# font_heading:          Merriweather, Helvetica, Arial, sans-serif
-
-# my regular font combo
-# font_heading:          Roboto, Helvetica, Arial, sans-serif
-font_heading:          Nunito Sans, Helvetica, Arial, sans-serif
+font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
@@ -153,15 +120,17 @@ defaults:
 # disqus:                <disqus_shortname>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
+# PRO version only!
 # tinyletter:            <tinyletter_username>
 
-# Hydejack Settings.
+
+# Hydejack Settings
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random]
+  post_addons:         [about, newsletter, related]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other]
@@ -169,8 +138,8 @@ hydejack:
   # If you do not use Google Fonts, set to `true`.
   no_google_fonts:     false
 
-  # Set to `true` if you don't want to show an indicating external links
-  no_mark_external:    true
+  # Set to `true` if you don't want to show an icon indicating external links
+  no_mark_external:    false
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
@@ -179,15 +148,11 @@ hydejack:
   no_drawer:           false
 
   # Set to `true` to prevent usage of `hy-img` (lazy-loading images).
-  no_img:              false
+  no_img:              true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
-  # This will increase site build speed dramatically!
+  # This *may* be benefitial when serving the site over HTTP/2.
   no_inline_css:       false
-
-  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
-  # This will increase site build speed!
-  no_page_style:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
@@ -202,40 +167,20 @@ hydejack:
   no_theme_color:      false
 
   # Set to `true` when building with the `--lsi` option
-  # This will increase site build speed!
   use_lsi:             false
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  # Note that this works in the PRO version of Hydejack.
   cookies_banner:      false
-
-  # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
-  # Note that this works in the PRO version of Hydejack.
-  advertise:           false
-
-  # Dark Mode for Hydejack
-  # Note that this works in the PRO version of Hydejack.
-  dark_mode:
-    # Set to `true` to always use the dark theme.
-    always:            false
-
-    # Set to `true` to use the dark theme based on visitors' local time.
-    dynamic:           true
-    sunrise:           6
-    sunset:            18
-
-    # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
   # This is an _experimental_ feature.
   # Only use if you know what Service Workers are and how they can impact your site!
+  # Coding skills highly recommended.
   offline:
     enabled:           false
     cache_version:     1
-
 
 # Collections
 # ========================================================================================
@@ -258,22 +203,12 @@ collections:
 # ========================================================================================
 
 exclude:
-  - vendor/
+  - vendor
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - "*.gemspec"
-  - _js
-  - _plugins
-  - .sass-cache
-include:
-  - LICENSE.md
 
 
-# Plugins
+# Plugins and Plugin Configuration
 # ========================================================================================
 
 plugins:
@@ -291,10 +226,8 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-#remote_theme: qwtel/hydejack@v8.5.1
-# remote_theme: hydecorp/hydejack@v9.0.4
-remote_theme: hydecorp/hydejack@v9.1.6
+remote_theme: qwtel/hydejack@v8.0.0
+
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -310,7 +243,7 @@ remote_theme: hydecorp/hydejack@v9.1.6
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+#   username:            <twitter handle>
 
 # Used for Facebook open graph
 # facebook:
@@ -351,11 +284,11 @@ kramdown:
     preview_as_code:   true
 
 compress_html:
-  comments:            ["<!-- ", " -->"]
+  comments:            ['<!-- ', ' -->']
   clippings:           all
   endings:             all
-  ignore:
-    envs:              [development]
 
 sass:
   style:               compressed
+
+theme: jekyll-theme-architect
