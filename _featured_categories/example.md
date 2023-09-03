@@ -13,7 +13,10 @@ description: >
   This is a featured category, which have their own page.
   Check out `_featured_tags/example.md` to learn how to create your own.
 
+# You can show the description on the page by deleting this line:
+hide_description: true
+
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 2
+order: 3
 ---

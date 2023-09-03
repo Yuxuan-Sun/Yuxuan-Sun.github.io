@@ -9,7 +9,7 @@ title: Research
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Yuxuan Sun introduction
+  Yuxuan Sun math research
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -30,9 +30,9 @@ The following works are all done at the REU program of Texas State University, S
 
 * M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, Classifying solvable primitive permutation groups of low rank, [arxiv](https://arxiv.org/abs/2211.16558), Journal of Computational Algebra, conditionally accepted.
 
-* M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, On the characterization of sporadic simple groups by codegrees,https://arxiv.org/abs/2301.02365, Bulletin of the Australian Mathematical Society, accepted.
+* M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, On the characterization of sporadic simple groups by codegrees, [arxiv](https://arxiv.org/abs/2301.02365), Bulletin of the Australian Mathematical Society, accepted.
 
-* M. Dolorfino, L. Martin, Z. Slonim*, **Y. Sun**, Y. Yang, On the characterization of Alternating groups by the codegree set,https://arxiv.org/abs/2301.02663, submitted.
+* M. Dolorfino, L. Martin, Z. Slonim*, **Y. Sun**, Y. Yang, On the characterization of Alternating groups by the codegree set, [arxiv](https://arxiv.org/abs/2301.02663), submitted.
 
 ## Talks
 
