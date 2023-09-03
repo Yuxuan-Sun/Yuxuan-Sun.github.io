@@ -22,7 +22,12 @@ menu: true
 order: 1
 ---
 
+
+## Papers
+
 The following works are all done at the REU program of Texas State University, Summer 2022.
+
+* M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, Classifying solvable primitive permutation groups of low rank, [arxiv](https://arxiv.org/abs/2211.16558), Journal of Computational Algebra, conditionally accepted.
 
 * **Abir Saha**, Darren Gergle, and Anne Marie Piper. [Understanding Peer-to-Peer Instructional Support in an Online Community for Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-ASSETS2023-preprint.pdf){:target="_blank"}. In *Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)*, October 2023, New York, NY, USA.  
 
