@@ -22,6 +22,7 @@ menu: true
 order: 1
 ---
 
+My research interests mainly lie in representation theory and algebraic combinatorics.
 
 ## Papers
 
@@ -29,8 +30,13 @@ The following works are all done at the REU program of Texas State University, S
 
 * M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, Classifying solvable primitive permutation groups of low rank, [arxiv](https://arxiv.org/abs/2211.16558), Journal of Computational Algebra, conditionally accepted.
 
-* **Abir Saha**, Darren Gergle, and Anne Marie Piper. [Understanding Peer-to-Peer Instructional Support in an Online Community for Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-ASSETS2023-preprint.pdf){:target="_blank"}. In *Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)*, October 2023, New York, NY, USA.  
+* M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, On the characterization of sporadic simple groups by codegrees,https://arxiv.org/abs/2301.02365, Bulletin of the Australian Mathematical Society, accepted.
 
+* M. Dolorfino, L. Martin, Z. Slonim*, **Y. Sun**, Y. Yang, On the characterization of Alternating groups by the codegree set,https://arxiv.org/abs/2301.02663, submitted.
 
-* **Abir Saha**, Thomas B. McHugh, and Anne Marie Piper. [Tutoria11y: Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-CHI2023-preprint.pdf){:target="_blank"}. In *2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)*, April 2023, Hamburg, Germany.  
+## Talks
+
+* Math Majors Thesis Presentation. *Haverford PA, May 2023*. [Slides](/assets/files/thesisPre.pdf).
+
+* Nebraska Conference for Undergraduate Women in Mathematics. *Lincoln NE, Jan 2023*. [Slides](/assets/files/AnTalk.pdf).
 
