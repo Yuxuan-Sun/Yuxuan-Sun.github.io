@@ -20,7 +20,9 @@ menu: true
 order: 2
 ---
 
-This page has links to notes I've written. Most of them but not all are related to math.
+Here are notes I've written. Most of them (but not all) are related to math.
+
+## University of Minnesota Twin Cities
 
 ### Haverford College
 
