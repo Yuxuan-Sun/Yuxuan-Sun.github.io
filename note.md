@@ -22,7 +22,7 @@ order: 3
 
 Here are notes I've written. Most of them (but not all) are related to math.
 
-## University of Minnesota Twin Cities
+### University of Minnesota Twin Cities
 
 ### Haverford College
 
