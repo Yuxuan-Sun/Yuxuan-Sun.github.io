@@ -4,7 +4,7 @@
 layout: about
 
 # The title of the page.
-title: Notes
+title: Note
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -17,7 +17,7 @@ hide_description: true
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
-order: 2
+order: 3
 ---
 
 Here are notes I've written. Most of them (but not all) are related to math.

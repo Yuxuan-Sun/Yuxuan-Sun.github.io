@@ -17,7 +17,7 @@ hide_description: true
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
-order: 3
+order: 4
 ---
 
 I will be a TA for MATH 1271 (DIscussion 012 and 015) at UMN during Fall 2023.

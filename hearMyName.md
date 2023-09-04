@@ -3,7 +3,7 @@
 # You can change it to link to a different site, or delete it to remove the "Documentation" link.
 # To create links to social media sites, check out `_data/authors.yml`!
 redirect_to: https://www.zhihu.com/people/qi-qing-66
-title: Zhihu
+title: Hear my name
 menu: true
-order: 5
+order: 1
 ---

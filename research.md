@@ -19,7 +19,7 @@ image: /assets/img/hydejack-8.jpg
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
-order: 1
+order: 2
 ---
 
 My research interests mainly lie in representation theory and algebraic combinatorics.
