@@ -28,7 +28,7 @@ Here are notes I've written. Most of them (but not all) are related to math.
 
 * MATH 8271 Lie Groups and Lie Algebra. [Note](/assets/files/notes/lie.pdf).
 
-& MATH 8668 Combinatorial Theory. [Note](/assets/files/notes/combo.pdf). 
+* MATH 8668 Combinatorial Theory. [Note](/assets/files/notes/combo.pdf). 
 
 ### Haverford College
 
