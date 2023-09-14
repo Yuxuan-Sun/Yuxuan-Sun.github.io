@@ -24,6 +24,12 @@ Here are notes I've written. Most of them (but not all) are related to math.
 
 ### University of Minnesota Twin Cities
 
+* MATH 8211 Commutative and Homological Algebra. [Note](/assets/files/notes/comhom.pdf).
+
+* MATH 8271 Lie Groups and Lie Algebra. [Note](/assets/files/notes/lie.pdf).
+
+& MATH 8668 Combinatorial Theory. [Note](/assets/files/notes/combo.pdf). 
+
 ### Haverford College
 
 * MATH H318 Functional Analysis. [Note](/assets/files/notes/analysis2Notes.pdf).
