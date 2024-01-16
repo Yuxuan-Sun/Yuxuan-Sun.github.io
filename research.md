@@ -26,13 +26,15 @@ My research interests mainly lie in representation theory and algebraic combinat
 
 ## Papers
 
-The following works are all done at the REU program of Texas State University, Summer 2022.
+* Zhixing Chen, Yumou Fei, Jiyang Gao, **Yuxuan Sun**, Yuchong Zhang, Quotients of Special Classes of Positroids, [arxiv](https://arxiv.org/abs/2311.05340).
 
-* M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, Classifying solvable primitive permutation groups of low rank, [arxiv](https://arxiv.org/abs/2211.16558), Journal of Computational Algebra, conditionally accepted.
+The following works were all done at the REU program of Texas State University, Summer 2022.
 
-* M. Dolorfino, L. Martin, Z. Slonim, **Y. Sun**, Y. Yang, On the characterization of sporadic simple groups by codegrees, [arxiv](https://arxiv.org/abs/2301.02365), Bulletin of the Australian Mathematical Society, accepted.
+* Mallory Dolorfino, Luke Martin, Zachary Slonim, **Yuxuan Sun**, Yong Yang, Classifying solvable primitive permutation groups of low rank, [arxiv](https://arxiv.org/abs/2211.16558), Journal of Computational Algebra, conditionally accepted.
 
-* M. Dolorfino, L. Martin, Z. Slonim*, **Y. Sun**, Y. Yang, On the characterization of Alternating groups by the codegree set, [arxiv](https://arxiv.org/abs/2301.02663), submitted.
+* Mallory Dolorfino, Luke Martin, Zachary Slonim, **Yuxuan Sun**, Yong Yang, On the characterization of sporadic simple groups by codegrees, [arxiv](https://arxiv.org/abs/2301.02365), Bulletin of the Australian Mathematical Society, accepted.
+
+* Mallory Dolorfino, Luke Martin, Zachary Slonim, **Yuxuan Sun**, Yong Yang, On the characterization of Alternating groups by the codegree set, [arxiv](https://arxiv.org/abs/2301.02663), submitted.
 
 ## Talks
 
