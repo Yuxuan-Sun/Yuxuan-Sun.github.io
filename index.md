@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-cover: true
+cover: false
 ---
 
 Hello! My name is Yuxuan Sun. I'm currently (2023) a first year PhD student at the University of Minnesota Twin Cities. Before that, I received a B.S. degree with double majors in Computer Science and Mathematics at Haverford College in 2023. My undergrad math thesis advisor is [Elizabeth Milićević](https://www.haverford.edu/users/emilicevic) and CS is [Sara Mathieson](https://smathieson.sites.haverford.edu).
