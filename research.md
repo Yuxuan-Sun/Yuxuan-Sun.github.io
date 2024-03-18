@@ -26,7 +26,7 @@ My research interests mainly lie in representation theory and algebraic combinat
 
 ## Papers
 
-* Sarah Gold, Elizabeth Milićević, **Yuxuan Sun**, Crystal Chute Moves on Pipe Dreams, [arxiv](https://arxiv.org/html/2403.07204v1).
+* Sarah Gold, Elizabeth Milićević, **Yuxuan Sun**, Crystal Chute Moves on Pipe Dreams, [arxiv](https://arxiv.org/abs/2403.07204v1).
 
 * Zhixing Chen, Yumou Fei, Jiyang Gao, **Yuxuan Sun**, Yuchong Zhang, Quotients of Special Classes of Positroids, [arxiv](https://arxiv.org/abs/2311.05340).
 
@@ -40,9 +40,9 @@ The following works were all done at the REU program of Texas State University, 
 
 ## Talks
 
-* Graduate Student Combinatorics Conference. *Pittsburgh PA, Mar 2023*.
+* Graduate Student Combinatorics Conference. *Pittsburgh PA, Mar 2023*. [Slides](/assets/files/talks/positroid.pdf).
 
-* Young Alumni / Bi-Co Mathematics Colloquium. *Haverford PA, Mar 2023*. 
+* Young Alumni / Bi-Co Mathematics Colloquium. *Haverford PA, Mar 2023*. [Slides](/assets/files/talks/crystalChute.pdf).
 
 * Math Majors Thesis Presentation. *Haverford PA, May 2023*. [Slides](/assets/files/thesisPre.pdf).
 
